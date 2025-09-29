@@ -1,0 +1,5 @@
+{
+  "link": "https://raw.githubusercontent.com/venky584/firmware-test/main/b_led.bin",  
+  "Mandatory": true,
+  "sw" :3.0
+  }
